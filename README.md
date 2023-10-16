@@ -9,6 +9,9 @@
 ### API
 - [API 정의.md](API%2FAPI%20%EC%A0%95%EC%9D%98.md)
 
+### 프로세스와 스레드
+- 
+
 ### 디자인 패턴
 - [MVVM.md](Design%20Patterns%2FMVVM.md)
 - [MVVM의 viewmodel과 AAC의 viewModel 차이.md](Design%20Patterns%2FMVVM%EC%9D%98%20viewmodel%EA%B3%BC%20AAC%EC%9D%98%20viewModel%20%EC%B0%A8%EC%9D%B4.md)

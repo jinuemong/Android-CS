@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="api와 디자인 패턴">
+    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="10/6 스터디">
+      <change afterPath="$PROJECT_DIR$/Process와 Thread/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coroutine/코투린과 스레드.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coroutine/코투린과 스레드.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fragment/Activity-Fragment resumed 상태.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fragment/Activity-Fragment 생명주기.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fragment/fragment_resume.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fragment/fragment_start.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,12 +115,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696579179940</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="10/6 스터디">
+      <created>1696597125284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696597125284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="안드로이드 4대 컴포넌트" />
     <MESSAGE value="api와 디자인 패턴" />
-    <option name="LAST_COMMIT_MESSAGE" value="api와 디자인 패턴" />
+    <MESSAGE value="10/6 스터디" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/6 스터디" />
   </component>
 </project>
