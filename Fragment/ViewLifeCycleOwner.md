@@ -16,4 +16,7 @@
 ### 결론
 
 - Fragment LifeCycle에서 호출 시 IllegalStateException 에러 발생
+
+
+### 뷰 라이프 사이클과 프래그면트 라이프 사이클
 ![img.png](img.png)
