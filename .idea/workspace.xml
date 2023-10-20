@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="10/16 스터디">
+    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="10/19 스터디">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/API 정의.md" beforeDir="false" afterPath="$PROJECT_DIR$/Network/API 정의.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/RESTful API.md" beforeDir="false" afterPath="$PROJECT_DIR$/Network/RESTful API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fragment/ViewLifeCycleOwner.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fragment/ViewLifeCycleOwner.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Process와 Thread/스레드.md" beforeDir="false" afterPath="$PROJECT_DIR$/Process와 Thread/스레드.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coroutine/코투린과 스레드.md" beforeDir="false" afterPath="$PROJECT_DIR$/Process와 Thread/코투린과 스레드.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process와 Thread/Coroutine.md" beforeDir="false" afterPath="$PROJECT_DIR$/Process와 Thread/Coroutine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process와 Thread/Rxjava.md" beforeDir="false" afterPath="$PROJECT_DIR$/Process와 Thread/Rxjava.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +50,12 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Process와 Thread" />
+      <recent name="$PROJECT_DIR$/Programming Techniques" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AndroidCS" />
@@ -132,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697474585285</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="10/19 스터디">
+      <created>1697722576373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697722576373</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,6 +152,7 @@
     <MESSAGE value="api와 디자인 패턴" />
     <MESSAGE value="10/6 스터디" />
     <MESSAGE value="10/16 스터디" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/16 스터디" />
+    <MESSAGE value="10/19 스터디" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/19 스터디" />
   </component>
 </project>
