@@ -26,5 +26,5 @@
   - 데이터를 저장 할 수 없음
   - 1:N 지원, 여러 개의 콜랙터 가짐 
 
-- ColdFlow : SharedFlow, HotFlow : StateFlow
+- ColdFlow : Flow, HotFlow : StateFlow, SharedFlow
 [StateFlow, SharedFlow.md](StateFlow%2C%20SharedFlow.md)

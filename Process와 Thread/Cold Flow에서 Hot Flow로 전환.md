@@ -1,6 +1,6 @@
 
 
-### Cold Flow -> Hot Flow (SharedFlow -> StateFlow)
+### Cold Flow -> Hot Flow
 - 뷰 모델에서는 Hot Flow를 사용자에게 더 노출해야 함
 - 이유는 일반적인 flow 사용 시 새로운 구독을 할 때마다 Repository의 Flow Builder 블록에서
   Flow 방출을 트리거하여 리소스를 낭비할 수 있기 때문
