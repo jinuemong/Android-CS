@@ -33,6 +33,7 @@
 - [Flow.md](Process%EC%99%80%20Thread%2FFlow.md)
 - [StateFlow, SharedFlow.md](Process%EC%99%80%20Thread%2FStateFlow%2C%20SharedFlow.md)
 - [Cold Flow에서 Hot Flow로 전환.md](Process%EC%99%80%20Thread%2FCold%20Flow%EC%97%90%EC%84%9C%20Hot%20Flow%EB%A1%9C%20%EC%A0%84%ED%99%98.md)
+- [Lopper와 Handler.md](Process%EC%99%80%20Thread%2FLopper%EC%99%80%20Handler.md)
 
 ### 디자인 패턴
 - [MVVM.md](Design%20Patterns%2FMVVM.md)
@@ -61,6 +62,8 @@
 
 ### 뷰
 - [RecyclerView vs ListView.md](View%2FRecyclerView%20vs%20ListView.md)
+- [LayoutInflater.md](View%2FLayoutInflater.md)
+- [View,ViewGroup.md](View%2FView%2CViewGroup.md)
 
 ### 라이브러리
 - [Glide.md](Library%2FGlide.md)
@@ -77,3 +80,9 @@
 ### 프로그래밍 기법 
 - [반응형 프로그래밍.md](Programming%20Techniques%2F%EB%B0%98%EC%9D%91%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [함수형 프로그래밍.md](Programming%20Techniques%2F%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+
+### 오브젝트
+- [Intent.md](Object%2FIntent.md)
+
+### Context
+- [Context 종류.md](Context%2FContext%20%EC%A2%85%EB%A5%98.md)
