@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="10/21 스터디">
+    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="10/22 스터디">
+      <change afterPath="$PROJECT_DIR$/Programming Techniques/img_4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity/액티비티 생명주기.md" beforeDir="false" afterPath="$PROJECT_DIR$/Activity/액티비티 생명주기.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Process와 Thread/프로세스.md" beforeDir="false" afterPath="$PROJECT_DIR$/Process와 Thread/프로세스.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Advanced Part/Flow (StateFlow, SharedFlow).md" beforeDir="false" afterPath="$PROJECT_DIR$/_Advanced Part/Flow (StateFlow, SharedFlow).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Advanced Part/Lazy와 Lateinit의 차이, data,enum,sealed 클래스.md" beforeDir="false" afterPath="$PROJECT_DIR$/_Advanced Part/Lazy와 Lateinit의 차이, data,enum,sealed 클래스.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Advanced Part/디자인패턴과 LiveData.md" beforeDir="false" afterPath="$PROJECT_DIR$/_Advanced Part/디자인패턴과 LiveData.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697887272882</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="10/22 스터디">
+      <created>1697968168032</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697968168032</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +191,7 @@
     <MESSAGE value="10/19 스터디" />
     <MESSAGE value="10/20 스터디" />
     <MESSAGE value="10/21 스터디" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/21 스터디" />
+    <MESSAGE value="10/22 스터디" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/22 스터디" />
   </component>
 </project>
