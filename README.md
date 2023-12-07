@@ -14,6 +14,9 @@
 
 ### 컴포넌트
 - [안드로이드 4대 컴포넌트.md](Component%2F%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%204%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+- [Service.md](Component%2FService.md)
+- [Broadcast Receiver.md](Component%2FBroadcast%20Receiver.md)
+- [Content Provider.md](Component%2FContent%20Provider.md)
 
 ### 네트워크
 - [API 정의.md](API%2FAPI%20%EC%A0%95%EC%9D%98.md)
@@ -39,7 +42,7 @@
 - [MVVM.md](Design%20Patterns%2FMVVM.md)
 - [MVVM의 viewmodel과 AAC의 viewModel 차이.md](Design%20Patterns%2FMVVM%EC%9D%98%20viewmodel%EA%B3%BC%20AAC%EC%9D%98%20viewModel%20%EC%B0%A8%EC%9D%B4.md)
 - [LiveData와 MutableLiveData의 차이.md](Design%20Patterns%2FLiveData%EC%99%80%20MutableLiveData%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-
+- [ViewModel과 saveInstance.md](Design%20Patterns%2FViewModel%EA%B3%BC%20saveInstance.md)
 
 ### 프래그먼트
 - [프래그먼트 생명주기.md](Fragment%2F%ED%94%84%EB%9E%98%EA%B7%B8%EB%A8%BC%ED%8A%B8%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
