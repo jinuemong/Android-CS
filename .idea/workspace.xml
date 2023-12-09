@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="12/8 스터디">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/고차함수, 람다 함수.md" beforeDir="false" afterPath="$PROJECT_DIR$/Function/고차함수, 람다 함수.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/RESTful API.md" beforeDir="false" afterPath="$PROJECT_DIR$/Network/RESTful API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Techniques/절차지향 프로그래밍과 객체지향 프로그래밍.md" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Techniques/절차지향 프로그래밍과 객체지향 프로그래밍.md" afterDir="false" />
+    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="12/9 스터디">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702102891755</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="12/9 스터디">
+      <created>1702129325159</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1702129325159</updated>
+    </task>
+    <task id="LOCAL-00019" summary="12/9 스터디">
+      <created>1702129327724</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702129327724</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +234,7 @@
     <MESSAGE value="12/2 스터디" />
     <MESSAGE value="12/7 스터디" />
     <MESSAGE value="12/8 스터디" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/8 스터디" />
+    <MESSAGE value="12/9 스터디" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/9 스터디" />
   </component>
 </project>
