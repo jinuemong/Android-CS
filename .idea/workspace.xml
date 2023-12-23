@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="12/9 스터디">
+    <list default="true" id="6faa3f0b-587b-4a9e-96d8-4a0823c4121b" name="Changes" comment="[MVC] 패턴">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Network/RESTful API.md" beforeDir="false" afterPath="$PROJECT_DIR$/Network/RESTful API.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process와 Thread/프로세스.md" beforeDir="false" afterPath="$PROJECT_DIR$/Process와 Thread/프로세스.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/FCM.md" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/FCM.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702129327724</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[MVC] 패턴">
+      <created>1702143112352</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1702143112352</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,6 +246,7 @@
     <MESSAGE value="12/7 스터디" />
     <MESSAGE value="12/8 스터디" />
     <MESSAGE value="12/9 스터디" />
-    <option name="LAST_COMMIT_MESSAGE" value="12/9 스터디" />
+    <MESSAGE value="[MVC] 패턴" />
+    <option name="LAST_COMMIT_MESSAGE" value="[MVC] 패턴" />
   </component>
 </project>

@@ -17,6 +17,9 @@
 - [FCM.md](knowledge%2FFCM.md)
 - [Firebase.md](knowledge%2FFirebase.md)
 - [TDD.md](knowledge%2FTDD.md)
+- [App Optimization.md](knowledge%2F%20App%20Optimization.md)
+- [Memory Leak.md](knowledge%2FMemory%20Leak.md)
+- [가비지 컬렉션.md](knowledge%2F%EA%B0%80%EB%B9%84%EC%A7%80%20%EC%BB%AC%EB%A0%89%EC%85%98.md)
 
 ### 컴포넌트
 - [안드로이드 4대 컴포넌트.md](Component%2F%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%204%EB%8C%80%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
